@@ -1,0 +1,15 @@
+{
+	"name": "adf-nycpayroll-ashwin",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "adb4ed2d-34b7-480c-8fe8-0c1268fe5c8b",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
